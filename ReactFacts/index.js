@@ -20,7 +20,8 @@ ReactDOM.render(<h1>Lucky number is : {Math.floor(Math.random() * 10)}</h1>, doc
 // , document.getElementById('root'));
 
 
-//4. function Navbar() {
+//4. CREATE A SAMPLE MENU 
+// function Navbar() {
     // return(
     //     <div>
     //     <h1>Company Name</h1>
@@ -44,7 +45,11 @@ ReactDOM.render(<h1>Lucky number is : {Math.floor(Math.random() * 10)}</h1>, doc
     
     // , document.getElementById('root'));
     
-
+//5. IMPERATIVE JS
+// const h1 = document.createElement('h1');
+// h1.textContent = 'This is an imperative way to program';
+// h1.className = 'header';
+// document.getElementById('root').appendChild(h1);
 
 
 
